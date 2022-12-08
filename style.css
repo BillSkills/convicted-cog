@@ -7,3 +7,28 @@ h1{
     text-align: center;
     font-family: 'ggst-impact';
 }
+
+main{
+    display: grid;
+    align-items: center;
+}
+
+.tournament_bracket{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.tournament_bracket ul {
+    padding: 20px;
+    position: relative;
+}
+
+.tournament_bracket li{
+    padding: 10px;
+    display: inline-table;
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+}
+
