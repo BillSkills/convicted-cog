@@ -1,6 +1,6 @@
 # GGST Tournament Tracker
 
-![sol badguy](media/Face_1024_2048/Face_1024_2048_SOL.png)
+![sol badguy](public/media/Face_1024_2048/Face_1024_2048_SOL.png)
 _He's beginning to Sol Badguy_
 
 This is a web utility made by two dudes who play Guilty Gear Strive
