@@ -12,3 +12,22 @@ main{
     display: grid;
     align-items: center;
 }
+
+.tournamentBracket{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.tournamentBracket ul {
+    padding: 20px;
+    position: relative;
+}
+
+.tournamentBracket li{
+    padding: 10px;
+    display: inline-table;
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+}
