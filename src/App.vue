@@ -1,44 +1,22 @@
 <script>
-import Match from './components/Match.vue';
-
+import Navbar from './components/navbar/navbar.vue'
 export default {
-  components: {
-    Match
-  },
-  data() {
-    return {
-      tournament: {
-        name: "Finals",
-        children: [
-          {
-            name: "Semi-Finals",
-            children: [
-              {
-                name: "Quarter-Finals",
-                children: []
-              },
-              {
-                name: "Quarter-Finals",
-                children: []
-              }
-            ]
-          },
-          {
-            name: "Semi-Finals",
-            children: []
-          }
-        ]
-      }
+    components: { Navbar },
+    setup() {
     }
-  }
 }
 </script>
 
 <template>
-  <div>
-    <h1>GGST Tournament Tracker</h1>
-    <ul class="tournamentBracket">
-      <Match :fight="tournament" />
-    </ul>
-  </div>
+    <Navbar />
+    <div style="margin-top:60px;">
+        <router-view />
+    </div>
 </template>
+
+<style>
+@font-face {
+    font-family: "ggst-text";
+    src: url("../public/fonts/text.ttf");
+}
+</style>
