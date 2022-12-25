@@ -11,11 +11,11 @@ export default {
 
 <template>
     <div class="navbar">
-        <div id="title">GUILTY GEAR -STRIVE-</div>
-        <NavbarLink to="/" icon="fa-solid fa-house">HOME</NavbarLink>
-        <NavbarLink to="/bracket" icon="fa-solid fa-trophy">BRACKET</NavbarLink>
-        <NavbarLink to="/players" icon="fa-solid fa-user-group">PLAYERS</NavbarLink>
-        <NavbarLink to="/about" icon="fa-solid fa-circle-question">ABOUT</NavbarLink>
+        <div id="title">CONVICTED COG</div>
+        <NavbarLink to="/convicted-cog/home" icon="fa-solid fa-house">HOME</NavbarLink>
+        <NavbarLink to="/convicted-cog/bracket" icon="fa-solid fa-trophy">BRACKET</NavbarLink>
+        <NavbarLink to="/convicted-cog/players" icon="fa-solid fa-user-group">PLAYERS</NavbarLink>
+        <NavbarLink to="/convicted-cog/about" icon="fa-solid fa-circle-question">ABOUT</NavbarLink>
     </div>
 </template>
 

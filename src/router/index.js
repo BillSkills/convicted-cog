@@ -4,12 +4,12 @@ import Bracket from "../views/Bracket.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/convicted-cog/home",
     name: "Home",
     component: Home,
   },
   {
-    path: "/bracket",
+    path: "/convicted-cog/bracket",
     name: "Bracket",
     component: () => import("../views/Bracket.vue"),
   },
