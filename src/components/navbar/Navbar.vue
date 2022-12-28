@@ -12,9 +12,11 @@ export default {
 <template>
     <div class="navbar">
         <div id="title">CONVICTED COG</div>
-        <NavbarLink to="/convicted-cog/home" icon="fa-solid fa-house">HOME</NavbarLink>
+        <NavbarLink to="/convicted-cog/" icon="fa-solid fa-house">HOME</NavbarLink>
         <NavbarLink to="/convicted-cog/bracket" icon="fa-solid fa-trophy">BRACKET</NavbarLink>
+        <NavbarLink to="/convicted-cog/matches" icon="fa-solid fa-scale-unbalanced">MATCHES</NavbarLink>
         <NavbarLink to="/convicted-cog/players" icon="fa-solid fa-user-group">PLAYERS</NavbarLink>
+        <NavbarLink to="/convicted-cog/busters" icon="fa-solid fa-hand-fist">BUSTERS</NavbarLink>
         <NavbarLink to="/convicted-cog/about" icon="fa-solid fa-circle-question">ABOUT</NavbarLink>
     </div>
 </template>
@@ -47,8 +49,8 @@ export default {
     float: left;
     color: #ffffff;
     text-align: center;
-    padding: 8px 16px;
     text-decoration: none;
-    font-size: 29px;
+    margin: 7px 15px;
+    font-size: 31px;
 }
 </style>

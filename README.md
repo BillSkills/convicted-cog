@@ -1,10 +1,17 @@
-# GGST Tournament Tracker
+# convicted-cog
 
-![sol badguy](/src/assets/media/1024/1024_SOL.png)
+![sol badguy](/src/assets/media/2000/2000_SOL.png)
 _He's beginning to Sol Badguy_
 
-This is a web utility made by two dudes who play Guilty Gear Strive
+![axl low](/src/assets/media/2000/2000_AXL.png)
+_British person_
 
-Features will probably include a bracket generator and the ability to log match details (characters played, duels played, etc.)
+This is a web utility (work in progress) made by two dudes who play Guilty Gear Strive
 
-# [github.io Page Link](https://billskills.github.io/ggst-tournament-tracker)
+Features will probably include a bracket generator, the ability to log match details and player profiles, and of course, a Potemkin Buster counter.
+
+**DUEL 1**
+
+**LET'S ROCK!**
+
+# [gh-pages deployment](https://billskills.github.io/convicted-cog)

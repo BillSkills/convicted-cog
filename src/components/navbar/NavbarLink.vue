@@ -33,7 +33,7 @@ export default {
     float: left;
     color: #c4c4c4;
     text-align: center;
-    padding: 12px 16px 16px;
+    padding: 12px 15px 16px;
     text-decoration: none;
     font-size: 17px;
 }

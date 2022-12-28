@@ -1,5 +1,5 @@
 <script>
-import Navbar from './components/navbar/navbar.vue'
+import Navbar from './components/navbar/Navbar.vue'
 export default {
     components: { Navbar },
     setup() {
@@ -9,14 +9,11 @@ export default {
 
 <template>
     <Navbar />
-    <div style="margin-top:60px;">
+    <div style="margin-top: 45px">
         <router-view />
     </div>
 </template>
 
 <style>
-@font-face {
-    font-family: "ggst-text";
-    src: url("../public/fonts/text.ttf");
-}
+
 </style>

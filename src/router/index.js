@@ -4,7 +4,7 @@ import Bracket from "../views/Bracket.vue";
 
 const routes = [
   {
-    path: "/convicted-cog/home",
+    path: "/convicted-cog/",
     name: "Home",
     component: Home,
   },

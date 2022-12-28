@@ -2,8 +2,8 @@
 </script>
 
 <template>
-    <div class="about">
-        <h1>This is an about page</h1>
+    <div class="home">
+        <h1>GUILTY GEAR -STRIVE-</h1>
     </div>
 </template>
 
