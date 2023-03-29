@@ -1,10 +1,10 @@
 # convicted-cog
 
 ![sol badguy](/src/assets/media/2000/2000_SOL.png)
-_He's beginning to Sol Badguy_
+_Find Your One Way_
 
-![axl low](/src/assets/media/2000/2000_AXL.png)
-_British person_
+![ky kiske](/src/assets/media/2000/2000_KYK.png)
+_The Roar of the Spark_
 
 This is a web utility (work in progress) made by two dudes who play Guilty Gear Strive
 
