@@ -1,9 +1,9 @@
 # convicted-cog
 
-![sol badguy](/src/assets/media/512/512_SOL.png)
+![sol badguy](/src/assets/media/1024/1024_SOL.png)
 _Find Your One Way_
 
-![ky kiske](/src/assets/media/512/512_KYK.png)
+![ky kiske](/src/assets/media/1024/1024_KYK.png)
 _The Roar of the Spark_
 
 This is a web utility (work in progress) made by two dudes who play Guilty Gear Strive
